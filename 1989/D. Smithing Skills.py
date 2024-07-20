@@ -1,3 +1,8 @@
+"""
+This problem is solved on small value of n and m.
+However, for larger value of n and m, I need to implement some kind of memoization technique - I haven't figured it out yet :(
+"""
+
 ins = lambda: [int(x) for x in input().split(' ')]
 
 def solve() -> int:
